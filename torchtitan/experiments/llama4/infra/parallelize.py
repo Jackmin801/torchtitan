@@ -14,7 +14,7 @@ from torch.distributed.tensor.parallel import (
     ColwiseParallel,
     parallelize_module,
     PrepareModuleInput,
-    PrepareModuleInputOutput,
+    #PrepareModuleInputOutput,
     RowwiseParallel,
     SequenceParallel,
 )
